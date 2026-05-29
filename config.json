@@ -1,5 +1,6 @@
 {
-	"ip":"amirjfriii.aternos.me",
-	"port": "42985",
-	"name": "owner"
+    "ip": "localhost",
+    "port": 25565,
+    "name": "TestBot",
+    "version": "1.20.4"
 }
